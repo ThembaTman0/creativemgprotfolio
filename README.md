@@ -1,7 +1,7 @@
-<h2 style="text-align: center;">
-  [CreativeMinds Graphics](https://creativemg.netlify.app/)
 
-</h2>
+ # [CreativeMinds Graphics](https://creativemg.netlify.app/)
+
+
 
 ---------------------------------------------------
 
