@@ -1,4 +1,7 @@
-<h1> [CreativeMinds Graphics](https://creativemg.netlify.app/) </h1>
+<h1 align="center">
+  [CreativeMinds Graphics](https://creativemg.netlify.app/)
+
+</h1>
 
 ---------------------------------------------------
 
